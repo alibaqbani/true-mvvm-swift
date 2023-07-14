@@ -1,2 +1,4 @@
 # TrueMVVM for Swift
 A sleek package inspired by WPF's MVVM pattern, enabling developers to create scalable, maintainable, and testable applications with ease.
+
+The TrueMVVM for Swift is a powerful package that draws inspiration from the widely acclaimed MVVM (Model-View-ViewModel) architectural pattern, known for its success in WPF applications. With a keen focus on providing a seamless development experience, this package offers a robust set of tools specifically tailored for Swift applications. By leveraging the principles of MVVM, developers can create highly maintainable and scalable code, ensuring efficient separation of concerns and enhanced testability. Whether you're a seasoned developer or new to MVVM, TrueMVVM empowers you to build elegant and modular applications in Swift with ease.
